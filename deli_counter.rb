@@ -8,7 +8,6 @@ def line(katz_deli)
     puts "The line is currently empty."
   else
     katz_deli.each do |person|
-binding.pry
     end
  #loop over katz_deli array and print out each person's place in line
   end
