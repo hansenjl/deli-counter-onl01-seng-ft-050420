@@ -10,5 +10,4 @@ def line(katz_deli)
     katz_deli.each do |person|
     end
  #loop over katz_deli array and print out each person's place in line
-  end
 end
